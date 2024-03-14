@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Carlos Escudero 
+I'm Currently a student at Tennessee Technological University and will be graduating in Spring 2024. My major is in Computer Science and with a focus on Data Science.
 
 <!--
 **cescudero27/cescudero27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
