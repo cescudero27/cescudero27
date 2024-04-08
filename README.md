@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Carlos Escudero 
-I'm Currently a student at Tennessee Technological University and will be graduating in Spring 2024. My major is in Computer Science and with a focus on Data Science.
+I'm Currently a student at [Tennessee Tech University](https://www.tntech.edu/) and will be graduating in Spring 2024. My major is in Computer Science and I like to focus on Data Science.
 
 <h2 align="center">💻 Tech Stack</h2>
 
