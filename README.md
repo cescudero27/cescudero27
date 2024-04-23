@@ -34,7 +34,7 @@ I'm Currently a student at [Tennessee Tech University](https://www.tntech.edu/) 
 # CSC-4610-Capstone
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="./images/Transcard.png">
+    <img src="./Images/Transcard.png">
 </div>
 
 This repository is a collaborative effort between the Power BI Data Health team comprising of Carlos Escudero, Collin Cunningham, Grant Tarver, Harrison Peloquin, Lorenzo Abellanosa, and Robert Bingham and the Transcard® coporation with project manager Ganesh Krishnamurthy. 
