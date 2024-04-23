@@ -21,11 +21,6 @@ I'm Currently a student at [Tennessee Tech University](https://www.tntech.edu/) 
 <h2 align="center">🗂️ Highlight Projects</h2>
 
 
-
-![GitHub contributors](https://img.shields.io/github/contributors/Rbbingham/CSC-4610-Capstone?style=for-the-badge&color=bright-green)
-![GitHub issues](https://img.shields.io/github/issues/Rbbingham/CSC-4610-Capstone?style=for-the-badge&color=bright-green)
-![GitHub License](https://img.shields.io/github/license/Rbbingham/CSC-4610-Capstone?style=for-the-badge&color=bright-green)
-
 </div>
 
 # CSC-4610-Capstone
