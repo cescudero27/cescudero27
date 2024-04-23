@@ -20,10 +20,7 @@ I'm Currently a student at [Tennessee Tech University](https://www.tntech.edu/) 
 
 <h2 align="center">🗂️ Highlight Projects</h2>
 
-<a href="https://github.com/Rbbingham/CSC-4610-Capstone">
-  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=Rbbingham&repo=CSC-4610-Capstone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CSC-4610-Capstone"/>
-</a>
-<div align="center">
+
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Rbbingham/CSC-4610-Capstone?style=for-the-badge&color=bright-green)
 ![GitHub issues](https://img.shields.io/github/issues/Rbbingham/CSC-4610-Capstone?style=for-the-badge&color=bright-green)
